@@ -1,0 +1,8 @@
+Aplikacja ToDo List.
+
+G³ówne okno aplikacji zawiera kalendarz z mo¿liwoœci¹ wybrania dnia oraz okienko z zadaniami na wybrany dzieñ.
+Zadania mo¿na dodawaæ, edytowaæ oraz usuwaæ. Po wybraniu opcji 'edycja' lub 'dodaj zadanie' pojawi siê nowe okno umo¿liwiaj¹ce odpowiednio edycjê lub dodanie treœci, godziny oraz daty wykonania zadania.
+Program posiada tak¿e funkcjê powiadomieñ. 15 minut przed zadaniem pojawi siê okno informuj¹ce o zbli¿aj¹cym siê zadaniu.
+
+W celu wykonania aplikacji desktopowej korzystaj¹cej z bazy danych skorzysta³em z rozwi¹zania SQLite, aby aplikacja mog³a dzia³aæ równie¿ na komputerach, 
+na których nie jest zainstalowany serwer bazodanowy.
